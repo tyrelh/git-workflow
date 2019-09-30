@@ -5,6 +5,8 @@ A branching workflow keeps things sane when multiple devs are working on the sam
 * In order to keep others up to date, and reduce merge conflicts on your behalf, don't merge your branch as soon as possible, adhere to the first point (within reason).
 * We will use a rebasing workflow to keep our master branch linear.
 
+Adapted from work by @JVerwolf (https://github.com/JVerwolf)
+
 ## Starting a new unit of work (branch):
 ```bash
 git checkout master
